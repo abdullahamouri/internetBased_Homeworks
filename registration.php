@@ -17,13 +17,8 @@ require_once('config.php');
 					<div class="wrapper">
 						<h1>Student Registration</h1>
 						
-						
-						<!-- <label for="full_name"><b>Full Name</b></label> -->
 						<input id="full_name" type="text" name="full_name" placeholder="Full Name" required>
-
 						<br>
-
-						<!-- <label for="email"><b>Email Address</b></label> -->
 						<input id="email"  type="email" name="email" placeholder="Email" required>
 
 						<br>
